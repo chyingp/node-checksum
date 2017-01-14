@@ -1,0 +1,17 @@
+{
+  "name": "node-checksum",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "gypfile": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.5.0"
+  }
+}
