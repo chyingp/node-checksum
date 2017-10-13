@@ -6,7 +6,7 @@ function cal (buf, size) {
         size -= 2;
     }
     if (size) {
-        cksum += buf.readUInt8LE(start);
+        cksum += buf.readUIntLE(start);
     }
     while (cksum >> 16)
         cksum = (cksum >> 16) + (cksum & 0xffff);

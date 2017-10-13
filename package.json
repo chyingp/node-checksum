@@ -1,6 +1,6 @@
 {
   "name": "node-checksum",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "buffer校验和计算",
   "main": "checksum.js",
   "gypfile": true,
