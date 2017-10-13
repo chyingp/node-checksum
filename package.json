@@ -2,7 +2,7 @@
   "name": "node-checksum",
   "version": "0.0.6",
   "description": "buffer校验和计算",
-  "main": "index.js",
+  "main": "checksum.js",
   "gypfile": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
