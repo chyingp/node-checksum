@@ -29,3 +29,4 @@ var bodyChecksum = checksum.cal(buffer, 4);  // -53717
 ## 版本记录
 
 * `0.07`：bug fix，`readUInt8LE`改成`readUIntLE`
+* `0.08`：bug fix，删除配置`"gypfile": true,`
