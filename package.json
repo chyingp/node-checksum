@@ -1,6 +1,6 @@
 {
   "name": "node-checksum",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "buffer校验和计算",
   "main": "checksum.js",  
   "scripts": {
